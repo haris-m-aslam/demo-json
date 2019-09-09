@@ -15,13 +15,13 @@
 		"announce_id": "17",
 		"announce_title": "In Search of Elephants",
 		"announce_description": "In Search of Elephants",
-		"announce_is_featured": "Yes",
+		"announce_is_featured": "No",
 		"announce_date": 1247166000
 	}, {
 		"announce_id": "18",
 		"announce_title": "Drupal Global Splash Awards Announced in Seattle",
 		"announce_description": "Drupal Global Splash Awards Announced in Seattle",
-		"announce_is_featured": "Yes",
+		"announce_is_featured": "No",
 		"announce_date": 1227164030
 	}]
 }

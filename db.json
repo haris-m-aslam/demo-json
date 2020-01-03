@@ -4,24 +4,28 @@
 		"announce_title": "Drupal 8.7.0 is available",
 		"announce_description": "This release introduces powerful features that will help us all take Drupal to a Whole new level...",
 		"announce_is_featured": "Yes",
-		"announce_date": 1471067202
+		"announce_date": 1471067202,
+		"announce_link": "https://www.drupal.org/news"
 	}, {
 		"announce_id": "16",
 		"announce_title": "Announcing the Drupal Community Working Group Review Panel",
 		"announce_description": "Announcing the Drupal Community Working Group Review Panel",
 		"announce_is_featured": "Yes",
-		"announce_date": 1367167101
+		"announce_date": 1367167101,
+		"announce_link": "https://www.drupal.org/news"
 	}, {
 		"announce_id": "17",
 		"announce_title": "In Search of Elephants",
 		"announce_description": "In Search of Elephants",
 		"announce_is_featured": "No",
-		"announce_date": 1247166000
+		"announce_date": 1247166000,
+		"announce_link": "https://www.drupal.org/news"
 	}, {
 		"announce_id": "18",
 		"announce_title": "Drupal Global Splash Awards Announced in Seattle",
 		"announce_description": "Drupal Global Splash Awards Announced in Seattle",
 		"announce_is_featured": "No",
-		"announce_date": 1227164030
+		"announce_date": 1227164030,
+		"announce_link": "https://www.drupal.org/news"
 	}]
 }
